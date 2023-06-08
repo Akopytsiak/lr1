@@ -5,4 +5,4 @@ require 'src/auth.php';
 
 logout();
 
-header('Location: index.php');
+header('Location: index.html');
